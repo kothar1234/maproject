@@ -1,0 +1,45 @@
+body{
+  background-color:thistle;
+}
+
+
+h1{
+  font-size: 50px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.item {
+  background-color:snow;
+  width: 800px;
+  height: 155px;
+  margin-bottom: 10px;
+  margin-block-start: 30px;
+}
+
+
+
+.name {
+  font-size: x-large;
+
+}
+
+.text {
+  font-style: normal;
+  margin-bottom: 1ex;
+
+}
+
+.plus {
+  cursor: pointer;
+  margin: 30px;
+
+
+}
+
+.minus{
+  cursor: pointer;
+  margin: 30px;
+
+
+}
